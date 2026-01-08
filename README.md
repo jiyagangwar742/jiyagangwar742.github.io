@@ -7,7 +7,7 @@
 
 ## What I'm Learning
 I've been figuring out how to build software with AI (specifically Claude), and I wrote up what I learned:
-- **[My Vibe Coding Guide](https://gist.github.com/jiyagangwar742/4a4d1b62bb3c53e70c37f12863848e75)** - Tips for building code with Claude.
+- **[My Vibe Coding Learnings](https://gist.github.com/jiyagangwar742/4a4d1b62bb3c53e70c37f12863848e75)** - Tips for building code with Claude.
 
 ## My Current Projects Developed with [Claude.ai](https://claude.ai/)
 **[Fruit Fly Genetics Tracker](https://github.com/jiyagangwar742/fruit_fly_tracker)**  
